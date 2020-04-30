@@ -1,0 +1,2 @@
+rootProject.name='PraktikumModul5'
+include ':app'
